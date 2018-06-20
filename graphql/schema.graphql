@@ -11,4 +11,5 @@ type Query {
 
 type Mutation {
   addMovie(score: Int!, name: String!): Movie!
+  deleteMovie(id: Int!): Boolean!
 }
