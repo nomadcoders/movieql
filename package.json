@@ -7,7 +7,8 @@
   "author": "Nicolas Serrano Arevalo<nico@nomadcoders.co>",
   "license": "MIT",
   "dependencies": {
-    "graphql-yoga": "^1.14.8"
+    "graphql-yoga": "^1.14.8",
+    "node-fetch": "^2.1.2"
   },
   "scripts": {
     "start": "nodemon --exec babel-node index.js"
