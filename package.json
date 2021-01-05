@@ -7,7 +7,7 @@
   "author": "Nicolas Serrano Arevalo<nico@nomadcoders.co>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "graphql-yoga": "^1.14.8",
     "babel-cli": "^6.26.0",
